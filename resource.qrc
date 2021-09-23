@@ -1,12 +1,13 @@
 <RCC>
   <qresource prefix="RTC">
-    <file>code.png</file>
-    <file>add.png</file>
-    <file>connected.png</file>
-    <file>disconnected.png</file>
-    <file>play.png</file>
-    <file>refresh.png</file>
-    <file>zarnitza64g.ico</file>
-    <file>home.png</file>
+    <file>src/add.png</file>
+    <file>src/code.png</file>
+    <file>src/connected.png</file>
+    <file>src/disconnected.png</file>
+    <file>src/home.png</file>
+    <file>src/play.png</file>
+    <file>src/refresh.png</file>
+    <file>src/sync.png</file>
+    <file>src/zarnitza64g.ico</file>
   </qresource>
 </RCC>
